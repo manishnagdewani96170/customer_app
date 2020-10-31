@@ -9,7 +9,7 @@ Getting started
 ==============
 Clone the repo
 ```
-$ git clone git@github.com:Oureasystems/ourea-api.git
+$ git clone git@github.com:manishnagdewani96170/customer_app.git
 ```
 Load ruby version (RVM as example)
 ```
